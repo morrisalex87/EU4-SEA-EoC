@@ -1,2 +1,4 @@
 # EU4-SEA-EoC
-EOC Missions for SEA
+Emperor of China Missions for South East Asian Nations
+
+Includes Dai Viet and Siam
