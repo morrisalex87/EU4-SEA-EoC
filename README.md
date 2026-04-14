@@ -1,4 +1,4 @@
 # EU4-SEA-EoC
-Emperor of China Missions for South East Asian Nations
-
+Europa Universalis 4 Mod
+Emperor of China missions for South East Asian nations
 Includes Dai Viet and Siam
